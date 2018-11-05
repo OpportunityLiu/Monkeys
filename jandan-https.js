@@ -1,5 +1,7 @@
 // ==UserScript==
 // @name         jandan-https
+// @author       Opportunity
+// @description  Force https for jandan.net
 // @namespace    https://github.com/OpportunityLiu/Monkeys
 // @version      0.1
 // @match        https://jandan.net/*
